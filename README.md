@@ -17,19 +17,8 @@ The dataset is categorized into two main classes: **Defective** and **Normal**.
 | Class Name | Description | Number of Images |
 | :--- | :--- | :--- |
 | **Defective** | Bobbins with print errors (color shift, missing print, etc.) | 1,800 |
-| **Normal** | Defect-free bobbins  | 1,300 |
-
-## 🧪 Experimental Results (Benchmark)
-Several Convolutional Neural Network (CNN) architectures were trained and tested on this dataset using Transfer Learning.
-
-| Model | Accuracy | Recall (Sensitivity) | F1-Score |
-| :--- | :--- | :--- | :--- |
-| **MobileNetV2** | **98.32%** | **99.77%** | **0.9817** |
-| EfficientNetB0 | 97.70% | 99.77% | 0.9750 |
-| InceptionV3 | 96.75% | 99.77% | 0.9651 |
-| ResNet50 | 65.03% | 29.30% | 0.4300 |
-
-*MobileNetV2 achieved the best performance with high accuracy and low computational cost suitable for real-time industrial applications.*
+| **Normal** | Defect-free bobbins | 1,300 |
+| **Total** | **Dataset Size** | **3,100** |
 
 ## 📥 Download and Access
 **Access Policy:**
@@ -38,12 +27,12 @@ The dataset is currently **restricted** due to ongoing research and intellectual
 **Request Access:**
 You can request permission to view the dataset via the link below (Access is currently granted only to authorized reviewers):
 
-[🔗 **Link to Dataset (Google Drive - Restricted)**](----------------)
+[🔗 **Link to Dataset (Google Drive - Restricted)**](-------------------)
 
 ## 📝 Citation
 If you use this dataset in your research, please cite the following paper (Citation will be updated upon publication):
 
-> *Author Name, "Detection of Fresco Print Defects on Cylindrical Paper Bobbins Using Deep Learning", 2026.*
+> *İlhan Demirel, Zeynep Polat, "Detection of Fresco Print Defects on Cylindrical Paper Bobbins Using Deep Learning", 2026.*
 
 ---
-**Contact:** [ilhandemirel23@gmail.com]
+**Contact:** ilhandemirel23@gmail.com
