@@ -17,7 +17,7 @@ The dataset is categorized into two main classes: **Defective** and **Normal**.
 | Class Name | Description | Number of Images |
 | :--- | :--- | :--- |
 | **Defective** | Bobbins with print errors (color shift, missing print, etc.) | 1,800 |
-| **Normal** | Defect-free bobbins (Augmented) | 1,300 |
+| **Normal** | Defect-free bobbins  | 1,300 |
 
 ## 🧪 Experimental Results (Benchmark)
 Several Convolutional Neural Network (CNN) architectures were trained and tested on this dataset using Transfer Learning.
