@@ -12,13 +12,12 @@ The dataset is categorized into two main classes: **Defective** and **Normal**.
 * **Original Data:** 1,900 Images
 * **Image Format:** .jpg / .png
 * **Resolution:** Resized to 224x224 pixels for CNN inputs.
-* **Environment:** Captured under controlled LED lighting with an industrial camera setup.
 
 ### Class Distribution
 | Class Name | Description | Number of Images |
 | :--- | :--- | :--- |
-| **Defective** | Bobbins with print errors (color shift, missing print, etc.) | 1,300 |
-| **Normal** | Defect-free bobbins (Augmented) | 1,800 |
+| **Defective** | Bobbins with print errors (color shift, missing print, etc.) | 1,800 |
+| **Normal** | Defect-free bobbins (Augmented) | 1,300 |
 
 ## 🧪 Experimental Results (Benchmark)
 Several Convolutional Neural Network (CNN) architectures were trained and tested on this dataset using Transfer Learning.
