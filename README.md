@@ -8,11 +8,6 @@ The dataset consists of original images captured from a real production line. To
 ## 📊 Dataset Properties
 The dataset is categorized into two main classes: **Defective** and **Normal**.
 
-* **Total Images:** 3,100 (after augmentation)
-* **Original Data:** 1,900 Images
-* **Image Format:** .jpg / .png
-* **Resolution:** Resized to 224x224 pixels for CNN inputs.
-
 ### Class Distribution
 | Class Name | Description | Number of Images |
 | :--- | :--- | :--- |
