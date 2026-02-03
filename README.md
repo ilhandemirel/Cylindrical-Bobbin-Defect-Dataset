@@ -30,4 +30,4 @@ If you use this dataset in your research, please cite the following paper (Citat
 > *İlhan Demirel, Zeynep Polat, "Detection of Fresco Print Defects on Cylindrical Paper Bobbins Using Deep Learning", 2026.*
 
 ---
-**Contact:** ilhandemirel23@gmail.com
+** 📧 Contact:** ilhandemirel23@gmail.com
